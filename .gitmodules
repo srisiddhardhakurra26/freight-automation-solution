@@ -1,0 +1,9 @@
+[submodule "carrier-verification-api"]
+	path = carrier-verification-api
+	url = https://github.com/srisiddhardhakurra26/carrier-verification-api.git
+[submodule "negotiation-api"]
+	path = negotiation-api
+	url = https://github.com/srisiddhardhakurra26/negotiation-api.git
+[submodule "metrics-dashboard"]
+	path = metrics-dashboard
+	url = https://github.com/srisiddhardhakurra26/metrics-dashboard.git
